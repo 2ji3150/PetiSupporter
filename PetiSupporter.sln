@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetiSupporter", "PetiSupporter\PetiSupporter.csproj", "{E0EE2495-F69C-462E-9303-49821B148A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0EE2495-F69C-462E-9303-49821B148A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EE2495-F69C-462E-9303-49821B148A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EE2495-F69C-462E-9303-49821B148A1E}.Debug|x64.ActiveCfg = Debug|x64
+		{E0EE2495-F69C-462E-9303-49821B148A1E}.Debug|x64.Build.0 = Debug|x64
+		{E0EE2495-F69C-462E-9303-49821B148A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EE2495-F69C-462E-9303-49821B148A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0EE2495-F69C-462E-9303-49821B148A1E}.Release|x64.ActiveCfg = Release|x64
+		{E0EE2495-F69C-462E-9303-49821B148A1E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
